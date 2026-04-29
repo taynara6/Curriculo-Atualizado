@@ -2,6 +2,11 @@
 body{
     background-color: #f4e196;  
     color: #f4e196;
+    margin: 0;
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    min-height: 100vh;
     
   
 }
@@ -16,6 +21,8 @@ body{
     border-style: outset;
     border-color: #78576b;
     border-width: 15px;
+    width: 90%px;
+
 
 }
 /* Foto de perfil*/
