@@ -1,0 +1,51 @@
+
+body{
+    background-color: #f4e196;  
+    color: #f4e196;
+    
+  
+}
+#center{
+    background-color: #400428;  
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 300px;
+    margin-left: 300px ;
+    height: 100%;
+    width: 50%;
+    border-style: outset;
+    border-color: #78576b;
+    border-width: 15px;
+
+}
+/* Foto de perfil*/
+#Perfil{
+    margin-top: 50px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border-style: solid;
+    border-width: 5px;
+}
+
+/*Icones da pagina*/
+
+.Icone{
+    word-spacing: 50px;
+    justify-content: center;
+    margin-right: 20px;
+  
+}
+
+.text{
+    margin-top: 50px;
+  
+    margin-right: 30px;
+    margin-left: 30px;
+  
+    }
+
+#cursos_projetos{
+    margin-bottom: 50px;
+}
