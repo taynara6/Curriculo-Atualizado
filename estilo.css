@@ -10,6 +10,9 @@ body{
     
   
 }
+header{
+    background-color: #5f9982;  
+}
 #center{
     background-color: #78576b;  
     margin-top: 0px;
